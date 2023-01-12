@@ -11,7 +11,7 @@ I'm a Software Engineer, I currently work as a STEM, ROBOTICS, Web Development a
 - 🌱 I’m currently learning JavaScript, NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1D6tl3uGnK8cH5TdLlAA5IAmu_ceCsyen/view?usp=sharing) and contact me by emailing emmanueldan0920@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1D6tl3uGnK8cH5TdLlAA5IAmu_ceCsyen/view?usp=sharing) and contact me by emailing emmanueldan0920@gmail.com
 
 ---
 
