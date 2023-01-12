@@ -15,5 +15,5 @@ I'm a Software Engineer, I currently work as a STEM, ROBOTICS, Web Development a
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyrae&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyrae&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> | !Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyrae&show_icons=true&theme=radical) |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyrae&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyrae&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannyrae&show_icons=true&theme=radical" alt="Emmanuel's GitHub stats" /> |
 | ------------- | ------------- |
